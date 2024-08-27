@@ -1,4 +1,4 @@
-# Image Processing Project 1
+# Image Processing with Histogram Equalization Quantization Color Space Transformations and Gamma Correction
 
 This repository contains code for an image processing project that includes various functionalities such as histogram equalization, image quantization, color space transformations, and gamma correction. The project aims to provide tools for manipulating and enhancing images using different techniques.
 
